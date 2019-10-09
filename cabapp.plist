@@ -24,7 +24,7 @@
 
             <key>url</key>
 
-            <string>http://172.20.70.69:8016/cabshift/aaaoz10001.ipa</string> 
+            <string>http://180.169.55.159:8016/cabshift/aaaoz10001.ipa</string> 
 
         </dict>
 
@@ -40,7 +40,7 @@
 
             <key>url</key>
 
-            <string>http://172.20.70.69:8016/cabshift/114-1141.png</string> 
+            <string>http://180.169.55.159:8016/cabshift/114-1141.png</string> 
 
         </dict>
 
@@ -56,7 +56,7 @@
 
             <key>url</key>
 		
-            <string>http://172.20.70.69:8016/cabshift/114-1141.png</string> 
+            <string>http://180.169.55.159:8016/cabshift/114-1141.png</string> 
 
         </dict>
 
