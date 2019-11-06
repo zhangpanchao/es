@@ -63,7 +63,7 @@
     </array>
 
         <key>metadata</key>
-		<dict><key>bundle-identifier</key><string>com.juneyaoair.cabinshift</string>
+		<dict><key>bundle-identifier</key><string>com.juneyaoair.sms</string>
 		<key>bundle-version</key>
 		<string>1.0.0</string>
 		<key>kind</key>
