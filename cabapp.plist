@@ -63,15 +63,15 @@
     </array>
 
         <key>metadata</key>
-		<dict><key>bundle-identifier</key><string>com.juneyaoair.sms</string>
+		<dict><key>bundle-identifier</key><string>com.juneyaoair.cabinshift</string>
 		<key>bundle-version</key>
-		<string1.0.0</string>
+		<string>00.00.0015</string>
 		<key>kind</key>
 		<string>software</string>
 		<key>subtitle</key>
 		<string>航务派遣</string>
 		<key>title</key>
-		<string>HOSMS</string></dict>
+		<string>航务派遣</string></dict>
 
     </dict>
 
